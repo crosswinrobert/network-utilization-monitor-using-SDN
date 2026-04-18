@@ -15,4 +15,4 @@ Implement an SDN-based solution using Mininet and POX controller that demonstrat
 ### Installation
 1. Install Mininet:
    ```bash
-   sudo apt install mininet -y
+   sudo apt install mininet
